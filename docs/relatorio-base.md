@@ -16,12 +16,14 @@
 
 | # | Nome | Matrícula | Contribuição individual nesta auditoria |
 |---|------|-----------|----------------------------------------|
-| 01 | Alícia Vitória Sousa Santos | 202300027015 | *(a preencher pelo integrante)* |
-| 02 | Alisson Francisco dos Santos | 202300083248 | *(a preencher pelo integrante)* |
-| 03 | Brenno Phelipe Silva dos Santos | 202400050750 | *(a preencher pelo integrante)* |
-| 04 | Davi Emanuel de Menezes Costa | 202300027178 | *(a preencher pelo integrante)* |
-| 05 | Guilherme Rosário Alves | 202100022784 | Consolidação do relatório em Markdown; levantamento nos repositórios local (`DeepResearch`) e remoto (GitHub); verificação de rastreabilidade com capturas de tela das trilhas **#233**, **#14** e **#181**; estruturação do material em `docs/` e síntese dos eixos GPR, GRE, PJR, V&V e GQA alinhados a CMMI/MPS.BR. *(Até o momento, conforme informado, as demais etapas de divisão de tarefas ficam a cargo da equipe.)* |
-| 06 | Uilson Alves dos Santos Neto | 201900115954 | *(a preencher pelo integrante)* |
+| 01 | Alícia Vitória Sousa Santos | 202300027015 | Eixo **GPR**: leitura dos READMEs (raiz e `WebAgent/`), notas sobre roadmap comunicado, ritmo via histórico Git (`git log` / ausência de tags), Releases no GitHub e riscos de APIs; redação da seção 3 e revisão cruzada com o material em `docs/gestao-projeto-gpr.md`. |
+| 02 | Alisson Francisco dos Santos | 202300083248 | Eixo **GRE**: mapeamento do fluxo Issues/PRs (ausência de RFC formal), definição dos requisitos inferidos R1–R3 e montagem das trilhas de rastreabilidade (**#233**, **#14**, **#181**); conferência no GitHub e apoio na descrição das figuras do relatório; base em `docs/requisitos-rastreabilidade-gre.md`. |
+| 03 | Brenno Phelipe Silva dos Santos | 202400050750 | Eixo **PJR**: análise do fluxo ReAct em `inference/react_agent.py`, `prompt.py` e `tool_*.py`, camadas (orquestração / LLM / tools), padrões arquiteturais e texto da seção 5; apoio na exportação do diagrama de classes (Mermaid → imagem para o PDF); base em `docs/arquitetura-pjr.md`. |
+| 04 | Davi Emanuel de Menezes Costa | 202300027178 | Eixo **V&V**: distinção verificação × validação, levantamento de testes/CI (`evaluation/`, ausência de `pytest` evidente, Actions no remoto), papel do juiz LLM em `evaluate_deepsearch_official.py` e peer review em PRs; redação da seção 6; base em `docs/verificacao-validacao.md`. |
+| 05 | Guilherme Rosário Alves | 202100022784 | **Coordenação** da auditoria: padronização do repositório da equipe (`ES_2026-2_DeepResearch`), consolidação deste `relatorio-base.md`, integração dos trechos dos `docs/`, alinhamento CMMI/MPS.BR entre seções, capturas de tela no GitHub (PR **#233**, issues **#14** e **#181**) e revisão final de linguagem e consistência antes do PDF. |
+| 06 | Uilson Alves dos Santos Neto | 201900115954 | Eixo **GQA** e **plano de melhoria**: auditoria de `CONTRIBUTING.md`, lint/análise estática, dívida técnica (TODOs, exceções), tabela de aderência; elaboração das duas ações prioritárias (MPS.BR G) e texto da seção 8; base em `docs/qualidade-gqa.md` e `docs/plano-melhoria.md`. |
+
+*Divisão de papel por eixo da atividade; revisão conjunta do documento e do repositório antes da entrega.*
 
 **Vídeo da auditoria:** *(inserir link do YouTube ou Google Drive — também no README do repositório da equipe, conforme enunciado).*
 

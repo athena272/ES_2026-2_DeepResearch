@@ -109,7 +109,20 @@ ES_2026-2_DeepResearch/
 | 05 | Guilherme Rosário Alves | 202100022784 |
 | 06 | Uilson Alves dos Santos Neto | 201900115954 |
 
-*Contribuições individuais na auditoria: descrever na primeira página do PDF entregue no Google Classroom, conforme normas da disciplina.*
+### Contribuições na auditoria (A1)
+
+Distribuição acordada pela **Equipe 1** *(detalhamento completo na primeira página de* [`docs/relatorio-base.md`](docs/relatorio-base.md)*)*:
+
+| Integrante | Foco principal |
+|------------|----------------|
+| Alícia Vitória Sousa Santos | GPR — ciclo de vida, roadmap, GitHub/Releases, riscos de API |
+| Alisson Francisco dos Santos | GRE — requisitos inferidos, rastreabilidade #233 / #14 / #181 |
+| Brenno Phelipe Silva dos Santos | PJR — arquitetura ReAct, camadas, diagrama UML |
+| Davi Emanuel de Menezes Costa | V&V — CI, benchmarks, juiz LLM, peer review |
+| Guilherme Rosário Alves | Coordenação, `relatorio-base.md`, integração dos `docs/`, figuras GitHub |
+| Uilson Alves dos Santos Neto | GQA + plano de melhoria (duas ações prioritárias) |
+
+*Revisão conjunta do relatório e do repositório antes da entrega no Classroom.*
 
 ---
 
