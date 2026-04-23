@@ -105,9 +105,10 @@ ES_2026-2_DeepResearch/
 | 01 | Alícia Vitória Sousa Santos | 202300027015 |
 | 02 | Alisson Francisco dos Santos | 202300083248 |
 | 03 | Brenno Phelipe Silva dos Santos | 202400050750 |
-| 04 | Davi Emanuel de Menezes Costa | 202300027178 |
-| 05 | Guilherme Rosário Alves | 202100022784 |
-| 06 | Uilson Alves dos Santos Neto | 201900115954 |
+| 04 | Breno Copeland Pitanga | 202100011225 |
+| 05 | Davi Emanuel de Menezes Costa | 202300027178 |
+| 06 | Guilherme Rosário Alves | 202100022784 |
+| 07 | Uilson Alves dos Santos Neto | 201900115954 |
 
 ### Contribuições na auditoria (A1)
 
@@ -118,9 +119,10 @@ Distribuição acordada pela **Equipe 1** *(detalhamento completo na primeira p�
 | Alícia Vitória Sousa Santos | GPR — ciclo de vida, roadmap, GitHub/Releases, riscos de API |
 | Alisson Francisco dos Santos | GRE — requisitos inferidos, rastreabilidade #233 / #14 / #181 |
 | Brenno Phelipe Silva dos Santos | PJR — arquitetura ReAct, camadas, diagrama UML |
+| Breno Copeland Pitanga | Introdução, contexto, referências, replicação e anexos/figuras |
 | Davi Emanuel de Menezes Costa | V&V — CI, benchmarks, juiz LLM, peer review |
 | Guilherme Rosário Alves | Coordenação, `relatorio-base.md`, integração dos `docs/`, figuras GitHub |
-| Uilson Alves dos Santos Neto | GQA + plano de melhoria (duas ações prioritárias) |
+| Uilson Alves dos Santos Neto | GQA + plano de melhoria + conclusão |
 
 *Revisão conjunta do relatório e do repositório antes da entrega no Classroom.*
 
