@@ -233,13 +233,7 @@ classDiagram
 
 ---
 
-**[INSERIR FIGURA 6 — Diagrama de classes UML (exportado)]**  
-
-- **O que a imagem deve mostrar:** o **mesmo** diagrama de classes da caixa Mermaid acima, exportado como **PNG ou SVG** (legível no PDF).  
-- **Como gerar:** copiar o bloco `mermaid` para [https://mermaid.live](https://mermaid.live) → **Export** → PNG/SVG.  
-- **Sugestão ao exportar PDF:** `figuras/06-diagrama-uml-classes.png` *(não usa os screenshots do GitHub; é figura técnica)*
-
-`<!-- Colar imagem da Figura 6 abaixo desta linha -->`
+<img width="3343" height="3440" alt="Qwen Agent Tool Integration-2026-04-26-210828" src="https://github.com/user-attachments/assets/8c1f2bd2-3f45-4fa3-98f6-42a91d0b3e19" />
 
 ---
 
