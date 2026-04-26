@@ -126,23 +126,9 @@ O GitHub usa **numeração unificada** para issues e pull requests. Abaixo, as t
 
 ---
 
-**[INSERIR FIGURA 1 — PR #233, visão geral da página]**  
+<img width="829" height="787" alt="image" src="https://github.com/user-attachments/assets/dbb75a80-713c-4c3b-940e-33255148d650" />
 
-- **O que a imagem deve mostrar:** título *“fix bug: add Any type #233”*, autor **FredericVAN**, status **Merged** na `main`, barra lateral com **Reviewer: callanwu** (aprovado), resumo **“Files changed: 2”**, e o texto da descrição do PR (import `Any`, `parse_retry_times = 0`).  
-- **Arquivo que você já tem (Cursor / assets):** `image-515d0477-af0d-496f-b7f8-81c2c7116613.png`  
-- **Sugestão ao exportar PDF:** guardar cópia como `figuras/01-pr233-visao-geral.png` e colar aqui embaixo ou no Word.
-
-`<!-- Colar imagem da Figura 1 abaixo desta linha -->`
-
----
-
-**[INSERIR FIGURA 2 — PR #233, merge e revisão]**  
-
-- **O que a imagem deve mostrar:** aprovação do **callanwu** (“approved”), comentário do **FredericVAN** pedindo merge, caixa roxa **“Pull request successfully merged and closed”**, e referência ao commit **`f4b6a05`** fundido na `main`.  
-- **Arquivo que você já tem:** `image-7471e26a-d540-4721-ab61-e267b341bb09.png`  
-- **Sugestão ao exportar PDF:** `figuras/02-pr233-merge-revisao.png`
-
-`<!-- Colar imagem da Figura 2 abaixo desta linha -->`
+<img width="1165" height="414" alt="image" src="https://github.com/user-attachments/assets/45c4cf6a-e961-4964-9ff8-f3d1ecdac5d6" />
 
 ---
 
@@ -155,23 +141,9 @@ O GitHub usa **numeração unificada** para issues e pull requests. Abaixo, as t
 
 ---
 
-**[INSERIR FIGURA 3 — Issue #14, relato do defeito]**  
+<img width="1033" height="813" alt="image" src="https://github.com/user-attachments/assets/f45a2b03-7869-4b40-9840-9c5bbbe45f8f" />
 
-- **O que a imagem deve mostrar:** cabeçalho da **Issue #14** (*“Always runs on the sample website…”*), estado **Closed**, texto do relato e as **capturas de Observation** (Google / ACL 404) que ilustram o bug.  
-- **Arquivo que você já tem:** `image-cdd64b42-080c-43ca-8ff5-fa9c8fcb8866.png`  
-- **Sugestão ao exportar PDF:** `figuras/03-issue14-relatorio.png`
-
-`<!-- Colar imagem da Figura 3 abaixo desta linha -->`
-
----
-
-**[INSERIR FIGURA 4 — Issue #14, resposta do mantenedor e fechamento]**  
-
-- **O que a imagem deve mostrar:** comentário do **callanwu** citando o commit **`72fa820`**, remoção da URL fixa, encerramento da issue, e o commit **`569126e`** (*fix Webwalker env variable and root url bug (#14)*) na timeline.  
-- **Arquivo que você já tem:** `image-693e928e-75ba-411c-b0e0-cb5dbb760792.png`  
-- **Sugestão ao exportar PDF:** `figuras/04-issue14-resolucao.png`
-
-`<!-- Colar imagem da Figura 4 abaixo desta linha -->`
+<img width="754" height="267" alt="image" src="https://github.com/user-attachments/assets/bccb6a89-b9d7-4381-ad8e-3ce2fb069277" />
 
 ---
 
@@ -184,13 +156,7 @@ O GitHub usa **numeração unificada** para issues e pull requests. Abaixo, as t
 
 ---
 
-**[INSERIR FIGURA 5 — Issue #181, benchmark e commit verificado]**  
-
-- **O que a imagem deve mostrar:** **Issue #181** (título sobre arquivos de imagem do benchmark bc-vl / BrowseComp), comentários **+1**, resposta **“已更新”** do **ornamentt**, fechamento **completed**, e o commit **`eb0c36d`** com selo **Verified**.  
-- **Arquivo que você já tem:** `image-956e7001-409c-42b8-868a-fd84bde4b2e1.png`  
-- **Sugestão ao exportar PDF:** `figuras/05-issue181-benchmark.png`
-
-`<!-- Colar imagem da Figura 5 abaixo desta linha -->`
+<img width="1059" height="721" alt="image" src="https://github.com/user-attachments/assets/7a095d31-9222-4634-9557-54a84a562c5e" />
 
 ---
 
@@ -304,13 +270,7 @@ Este relatório **prioriza** `inference/` no diagrama. O monorepo **`WebAgent/`*
 
 ---
 
-**[INSERIR FIGURA 7 — GitHub Actions (CI / ausência de testes de código)]** *(opcional mas recomendada)*  
-
-- **O que a imagem deve mostrar:** a aba **Actions** do repositório `Alibaba-NLP/DeepResearch`, listando workflows; idealmente aparecer só **“pages build and deployment”** (ou equivalente), **sem** workflow de pytest/lint/build Python.  
-- **Arquivo:** *você ainda não enviou este print* — faça uma **nova captura** ao abrir `https://github.com/Alibaba-NLP/DeepResearch/actions`.  
-- **Sugestão ao exportar PDF:** `figuras/07-github-actions-pages.png`
-
-`<!-- Colar imagem da Figura 7 abaixo desta linha -->`
+<img width="1074" height="259" alt="image" src="https://github.com/user-attachments/assets/b67e2166-896d-457f-a3a3-745474095fc6" />
 
 ---
 
