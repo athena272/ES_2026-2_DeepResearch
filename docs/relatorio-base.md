@@ -15,7 +15,7 @@
 **Projeto analisado:** **DeepResearch** (Tongyi DeepResearch)  
 **Repositório oficial:** https://github.com/Alibaba-NLP/DeepResearch  
 
-**Repositório de trabalho da equipe (artefatos da auditoria):** repositório `ES_2026-2_DeepResearch` *(URL pública a preencher após publicação no GitHub da equipe)*.
+**Repositório de trabalho da equipe (artefatos da auditoria):** repositório `ES_2026-2_DeepResearch` https://github.com/athena272/ES_2026-2_DeepResearch.
 
 | # | Nome | Matrícula | Contribuição individual nesta auditoria |
 |---|------|-----------|----------------------------------------|
