@@ -1,9 +1,9 @@
 # Atividade Avaliativa 1 — Auditoria de Maturidade em Ecossistemas LLM
 
 **Disciplina:** Engenharia de Software (COMPO503)  
-**Instituição:** *(preencher, ex.: UFS)*  
-**Turma / semestre:** *(preencher)*  
-**Data de elaboração deste documento:** *(preencher)*
+**Instituição:** UFS 
+**Turma / semestre:** T02 - 2026.1
+ **Data de elaboração deste documento:** 23/04/2026
 
 ---
 
