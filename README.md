@@ -8,9 +8,9 @@ Auditoria de maturidade de processo em ecossistemas LLM — **Atividade Avaliati
 
 ## Vídeo da auditoria técnica
 
-**Substitua o link abaixo pelo URL do vídeo (YouTube, Drive ou outro) após gravação (7–15 min):**
+**Link da gravação (YouTube):**
 
-[Vídeo — A1 DeepResearch](https://www.youtube.com/SEU_LINK_AQUI)
+[Vídeo — A1 DeepResearch](https://youtu.be/BGsKtEVcFoI?si=xXmPQ_fwITh0l_YY)
 
 > O mesmo link deve constar no PDF entregue no Google Classroom, conforme normas da disciplina.
 

@@ -43,4 +43,4 @@ git show <commit> --stat
 ## 6. Entregáveis da equipe
 
 - PDF no Classroom (normas da disciplina).
-- Vídeo: substituir o placeholder de link no [`README.md`](../README.md) na raiz deste repositório.
+- Vídeo: link público em [`README.md`](../README.md) (YouTube).

@@ -13,9 +13,9 @@
 ## Identificação da equipe (Equipe 1)
 
 **Projeto analisado:** **DeepResearch** (Tongyi DeepResearch)  
-**Repositório oficial:** https://github.com/Alibaba-NLP/DeepResearch  
+**Repositório oficial:** <a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank" rel="noopener noreferrer">https://github.com/Alibaba-NLP/DeepResearch</a>
 
-**Repositório de trabalho da equipe (artefatos da auditoria):** repositório `ES_2026-2_DeepResearch` https://github.com/athena272/ES_2026-2_DeepResearch.
+**Repositório de trabalho da equipe (artefatos da auditoria):** repositório `ES_2026-2_DeepResearch` <a href="https://github.com/athena272/ES_2026-2_DeepResearch" target="_blank" rel="noopener noreferrer">https://github.com/athena272/ES_2026-2_DeepResearch</a>.
 
 | # | Nome | Matrícula | Contribuição individual nesta auditoria |
 |---|------|-----------|----------------------------------------|
@@ -29,7 +29,7 @@
 
 *Divisão de papel por eixo da atividade (Equipe 1 com sete integrantes); revisão conjunta do documento e do repositório antes da entrega.*
 
-**Vídeo da auditoria:** *(inserir link do YouTube ou Google Drive — também no README do repositório da equipe, conforme enunciado).*
+**Vídeo da auditoria:** <a href="https://youtu.be/BGsKtEVcFoI?si=xXmPQ_fwITh0l_YY" target="_blank" rel="noopener noreferrer">https://youtu.be/BGsKtEVcFoI?si=xXmPQ_fwITh0l_YY</a> *(mesmo link no <a href="../README.md" target="_blank" rel="noopener noreferrer">README</a> do repositório da equipe.)*
 
 ---
 
@@ -119,16 +119,16 @@ O GitHub usa **numeração unificada** para issues e pull requests. Abaixo, as t
 
 | Etapa | Artefato | Detalhe |
 |-------|-----------|---------|
-| Mudança proposta / integrada | [Pull Request #233](https://github.com/Alibaba-NLP/DeepResearch/pull/233) | Título alinhado a correção de bug (`parse_retry_times`, tipagem `Any`); **revisor** (`callanwu`) com **aprovação**; merge na `main` em **08/01/2026**; **2 commits**, **2 arquivos** alterados. |
+| Mudança proposta / integrada | <a href="https://github.com/Alibaba-NLP/DeepResearch/pull/233" target="_blank" rel="noopener noreferrer">Pull Request #233</a> | Título alinhado a correção de bug (`parse_retry_times`, tipagem `Any`); **revisor** (`callanwu`) com **aprovação**; merge na `main` em **08/01/2026**; **2 commits**, **2 arquivos** alterados. |
 | Código | Commits `c05398f`, `f4b6a05` | `inference/tool_visit.py`, `inference/tool_python.py` |
 
 *Observação:* na interface do GitHub, a seção “Development” pode indicar **nenhuma issue vinculada** automaticamente; a rastreabilidade forte aqui é **PR → commits → arquivos**, típica de contribuições externas bem conduzidas.
 
 ---
 
-<img width="829" height="787" alt="image" src="https://github.com/user-attachments/assets/dbb75a80-713c-4c3b-940e-33255148d650" />
+<a href="https://github.com/user-attachments/assets/dbb75a80-713c-4c3b-940e-33255148d650" target="_blank" rel="noopener noreferrer"><img width="829" height="787" alt="image" src="https://github.com/user-attachments/assets/dbb75a80-713c-4c3b-940e-33255148d650" /></a>
 
-<img width="1165" height="414" alt="image" src="https://github.com/user-attachments/assets/45c4cf6a-e961-4964-9ff8-f3d1ecdac5d6" />
+<a href="https://github.com/user-attachments/assets/45c4cf6a-e961-4964-9ff8-f3d1ecdac5d6" target="_blank" rel="noopener noreferrer"><img width="1165" height="414" alt="image" src="https://github.com/user-attachments/assets/45c4cf6a-e961-4964-9ff8-f3d1ecdac5d6" /></a>
 
 ---
 
@@ -136,14 +136,14 @@ O GitHub usa **numeração unificada** para issues e pull requests. Abaixo, as t
 
 | Etapa | Artefato | Detalhe |
 |-------|-----------|---------|
-| Relato | [Issue #14](https://github.com/Alibaba-NLP/DeepResearch/issues/14) | Agente do WebWalker preso a URL de exemplo; discussão encerrada com referência a **commit** que remove URL fixa (`ROOT`). |
+| Relato | <a href="https://github.com/Alibaba-NLP/DeepResearch/issues/14" target="_blank" rel="noopener noreferrer">Issue #14</a> | Agente do WebWalker preso a URL de exemplo; discussão encerrada com referência a **commit** que remove URL fixa (`ROOT`). |
 | Código | `569126e` (e menção a `72fa820` na timeline) | `WebAgent/WebWalker/src/app.py` |
 
 ---
 
-<img width="1033" height="813" alt="image" src="https://github.com/user-attachments/assets/f45a2b03-7869-4b40-9840-9c5bbbe45f8f" />
+<a href="https://github.com/user-attachments/assets/f45a2b03-7869-4b40-9840-9c5bbbe45f8f" target="_blank" rel="noopener noreferrer"><img width="1033" height="813" alt="image" src="https://github.com/user-attachments/assets/f45a2b03-7869-4b40-9840-9c5bbbe45f8f" /></a>
 
-<img width="754" height="267" alt="image" src="https://github.com/user-attachments/assets/bccb6a89-b9d7-4381-ad8e-3ce2fb069277" />
+<a href="https://github.com/user-attachments/assets/bccb6a89-b9d7-4381-ad8e-3ce2fb069277" target="_blank" rel="noopener noreferrer"><img width="754" height="267" alt="image" src="https://github.com/user-attachments/assets/bccb6a89-b9d7-4381-ad8e-3ce2fb069277" /></a>
 
 ---
 
@@ -151,12 +151,12 @@ O GitHub usa **numeração unificada** para issues e pull requests. Abaixo, as t
 
 | Etapa | Artefato | Detalhe |
 |-------|-----------|---------|
-| Relato | [Issue #181](https://github.com/Alibaba-NLP/DeepResearch/issues/181) | Solicitação sobre arquivos de imagem do benchmark; encerrada como concluída. |
+| Relato | <a href="https://github.com/Alibaba-NLP/DeepResearch/issues/181" target="_blank" rel="noopener noreferrer">Issue #181</a> | Solicitação sobre arquivos de imagem do benchmark; encerrada como concluída. |
 | Código / dados | Commit `eb0c36d` (verificado) | Atualização dos arquivos `WebAgent/WebWatcher/benchmark/bc_vl_level1.jsonl` e `bc_vl_level2.jsonl` |
 
 ---
 
-<img width="1059" height="721" alt="image" src="https://github.com/user-attachments/assets/7a095d31-9222-4634-9557-54a84a562c5e" />
+<a href="https://github.com/user-attachments/assets/7a095d31-9222-4634-9557-54a84a562c5e" target="_blank" rel="noopener noreferrer"><img width="1059" height="721" alt="image" src="https://github.com/user-attachments/assets/7a095d31-9222-4634-9557-54a84a562c5e" /></a>
 
 ---
 
@@ -233,7 +233,7 @@ classDiagram
 
 ---
 
-<img width="3343" height="3440" alt="Qwen Agent Tool Integration-2026-04-26-210828" src="https://github.com/user-attachments/assets/8c1f2bd2-3f45-4fa3-98f6-42a91d0b3e19" />
+<a href="https://github.com/user-attachments/assets/8c1f2bd2-3f45-4fa3-98f6-42a91d0b3e19" target="_blank" rel="noopener noreferrer"><img width="3343" height="3440" alt="Qwen Agent Tool Integration-2026-04-26-210828" src="https://github.com/user-attachments/assets/8c1f2bd2-3f45-4fa3-98f6-42a91d0b3e19" /></a>
 
 ---
 
@@ -264,7 +264,7 @@ Este relatório **prioriza** `inference/` no diagrama. O monorepo **`WebAgent/`*
 
 ---
 
-<img width="1074" height="259" alt="image" src="https://github.com/user-attachments/assets/b67e2166-896d-457f-a3a3-745474095fc6" />
+<a href="https://github.com/user-attachments/assets/b67e2166-896d-457f-a3a3-745474095fc6" target="_blank" rel="noopener noreferrer"><img width="1074" height="259" alt="image" src="https://github.com/user-attachments/assets/b67e2166-896d-457f-a3a3-745474095fc6" /></a>
 
 ---
 
@@ -337,8 +337,8 @@ O **DeepResearch** apresenta **arquitetura de agente** clara (`inference/`), **v
 
 ## Referências
 
-- Repositório analisado: https://github.com/Alibaba-NLP/DeepResearch  
-- Material complementar da equipe (repositório `ES_2026-2_DeepResearch`): pasta `docs/` com versões detalhadas por eixo (`gestao-projeto-gpr.md`, `requisitos-rastreabilidade-gre.md`, `arquitetura-pjr.md`, `verificacao-validacao.md`, `qualidade-gqa.md`, `plano-melhoria.md`).  
+- Repositório analisado: <a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank" rel="noopener noreferrer">https://github.com/Alibaba-NLP/DeepResearch</a>
+- Material complementar da equipe (repositório `ES_2026-2_DeepResearch`): pasta `docs/` com versões detalhadas por eixo (`gestao-projeto-gpr.md`, `requisitos-rastreabilidade-gre.md`, `arquitetura-pjr.md`, `verificacao-validacao.md`, `qualidade-gqa.md`, `plano-melhoria.md`). Repositório público: <a href="https://github.com/athena272/ES_2026-2_DeepResearch" target="_blank" rel="noopener noreferrer">https://github.com/athena272/ES_2026-2_DeepResearch</a>.
 - CMMI-DEV v2.0 e MR-MPS-SW: conforme **bibliografia e slides** da disciplina COMPO503.
 
 ---
