@@ -1,5 +1,7 @@
 # Garantia da qualidade de software (GQA)
 
+> *Este documento foi redigido com apoio do Cursor IDE (assistente Claude) e revisado pela Equipe 1. Detalhes em [uso-de-ia.md](./uso-de-ia.md).*
+
 ## 1. CONTRIBUTING e governança de contribuição
 
 - **Evidência local:** não existe arquivo `CONTRIBUTING.md` na raiz do clone analisado.

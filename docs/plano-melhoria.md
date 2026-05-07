@@ -1,5 +1,7 @@
 # Plano de melhoria de processo (2 ações prioritárias)
 
+> *Este documento foi redigido com apoio do Cursor IDE (assistente Claude) e revisado pela Equipe 1. Detalhes em [uso-de-ia.md](./uso-de-ia.md).*
+
 **Cenário-alvo:** elevar práticas do projeto no sentido de uma **maturidade inicial organizada**, análoga ao que se espera ao buscar **MPS.BR nível G** (processos básicos definidos e compreendidos pela organização, com foco em **gestão de requisitos, projetos e qualidade** de forma enxuta).
 
 As ações abaixo derivam dos **gaps** observados na auditoria: ausência de `CONTRIBUTING.md`, ausência de CI de testes/análise estática no repositório, validação principalmente por benchmarks externos, e dependência forte de APIs de terceiros.

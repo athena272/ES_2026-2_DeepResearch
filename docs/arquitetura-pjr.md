@@ -1,5 +1,7 @@
 # Arquitetura e modelagem (PJR)
 
+> *Este documento foi redigido com apoio do Cursor IDE (assistente Claude) e revisado pela Equipe 1. Detalhes em [uso-de-ia.md](./uso-de-ia.md).*
+
 **Projeto analisado:** [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch)  
 **Escopo principal desta auditoria:** pasta `inference/` (agente ReAct) e ferramentas associadas.
 

@@ -1,5 +1,7 @@
 # Diagrama UML — visão resumida
 
+> *Este documento foi redigido com apoio do Cursor IDE (assistente Claude) e revisado pela Equipe 1. Detalhes em [uso-de-ia.md](./uso-de-ia.md).*
+
 O diagrama de classes em **Mermaid** e a lista de relações estão em **[arquitetura-pjr.md](./arquitetura-pjr.md)** (seção 5).
 
 Para uso no PDF ou apresentação:
