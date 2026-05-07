@@ -44,3 +44,13 @@ git show <commit> --stat
 
 - PDF no Classroom (normas da disciplina).
 - Vídeo: link público em [`README.md`](../README.md) (YouTube).
+
+## 7. Reuso de IA na replicação (opcional)
+
+Se quiser reproduzir o **mesmo tipo de apoio** que a Equipe 1 utilizou na redação da auditoria:
+
+1. Instale o **Cursor IDE** e abra o clone do `DeepResearch` (e, se aplicável, o repositório `ES_2026-2_DeepResearch`).
+2. Use o assistente configurado (neste trabalho: família **Claude** / **Opus** no Cursor) com prompts explícitos — por exemplo: explicar `MultiTurnReactAgent._run`, resumir `evaluation/evaluate_deepsearch_official.py`, ou estruturar uma tabela de eixos CMMI/MPS.BR.
+3. **Sempre valide** a saída contra o **código-fonte** e o **GitHub** (issues, PRs, Actions, Releases). O modelo pode variar entre execuções; a auditoria válida é a que permanece ancorada em evidências objetivas.
+
+Detalhamento do método, fronteira humano/IA e declaração de responsabilidade: [`uso-de-ia.md`](./uso-de-ia.md).
