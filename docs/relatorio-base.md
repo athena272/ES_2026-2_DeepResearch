@@ -61,6 +61,10 @@ Este documento apresenta uma **auditoria técnica de maturidade de processo** ap
 - A página de **Releases** foi verificada em momento anterior à entrega; o estado pode mudar — recomenda-se **reconsultar** antes da defesa.  
 - O repositório é **pesquisa + código**; não se espera o mesmo nível de processo de um produto comercial fechado.
 
+### 1.5 Uso de IA na metodologia
+
+A elaboração desta auditoria contou com apoio do **Cursor IDE** em modo agente e de um assistente baseado em **Claude (família Opus)**, para acelerar leitura e síntese de código, redação inicial e revisão linguística dos documentos, montagem de tabelas e do diagrama de classes em Mermaid, além de ajustes pontuais de formatação (por exemplo, hiperlinks em HTML no presente relatório). **Decisões de escopo**, **consulta e interpretação do GitHub remoto**, **verificação de commits e trilhas** (#233, #14, #181), **capturas de tela**, **gravação do vídeo** e **aprovação final** do conteúdo foram realizadas pela **Equipe 1**. Metodologia e limitações do uso de IA: ver <a href="./uso-de-ia.md" target="_blank" rel="noopener noreferrer">docs/uso-de-ia.md</a>.
+
 ---
 
 ## 2. Contexto do projeto DeepResearch
@@ -339,6 +343,7 @@ O **DeepResearch** apresenta **arquitetura de agente** clara (`inference/`), **v
 
 - Repositório analisado: <a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank" rel="noopener noreferrer">https://github.com/Alibaba-NLP/DeepResearch</a>
 - Material complementar da equipe (repositório `ES_2026-2_DeepResearch`): pasta `docs/` com versões detalhadas por eixo (`gestao-projeto-gpr.md`, `requisitos-rastreabilidade-gre.md`, `arquitetura-pjr.md`, `verificacao-validacao.md`, `qualidade-gqa.md`, `plano-melhoria.md`). Repositório público: <a href="https://github.com/athena272/ES_2026-2_DeepResearch" target="_blank" rel="noopener noreferrer">https://github.com/athena272/ES_2026-2_DeepResearch</a>.
+- Uso de inteligência artificial na elaboração da auditoria (ferramenta, modelo, limitações, responsabilidade da equipe): <a href="./uso-de-ia.md" target="_blank" rel="noopener noreferrer">docs/uso-de-ia.md</a>.
 - CMMI-DEV v2.0 e MR-MPS-SW: conforme **bibliografia e slides** da disciplina COMPO503.
 
 ---
