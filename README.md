@@ -29,6 +29,10 @@ Consolidar **artefatos da auditoria** (não é um fork de trabalho do código do
 3. **Mapeamento** dos cinco eixos: GPR, GRE, PJR, V&V, GQA.
 4. **Síntese** em dois níveis: evidência objetiva vs. inferência; limitações explícitas.
 
+### Uso de IA na metodologia
+
+Esta auditoria foi conduzida com apoio do **Cursor IDE** em modo agente, usando um assistente baseado em **Claude (família Opus)**, para acelerar leitura de código, redação inicial dos documentos, geração de tabelas e o diagrama Mermaid. **Toda evidência objetiva** (commits, PRs, issues, Releases, Actions, capturas de tela) foi **verificada manualmente** pela Equipe 1, que assina e responde pelo conteúdo final. Descrição detalhada: [docs/uso-de-ia.md](docs/uso-de-ia.md).
+
 ---
 
 ## Análise por eixo
@@ -41,7 +45,7 @@ Consolidar **artefatos da auditoria** (não é um fork de trabalho do código do
 | **V&V** — Verificação e validação | [docs/verificacao-validacao.md](docs/verificacao-validacao.md) |
 | **GQA** — Qualidade de software | [docs/qualidade-gqa.md](docs/qualidade-gqa.md) |
 
-**Índice rápido:** [docs/evidencias.md](docs/evidencias.md)
+**Índice rápido:** [docs/evidencias.md](docs/evidencias.md) · **Uso de IA:** [docs/uso-de-ia.md](docs/uso-de-ia.md)
 
 ---
 
@@ -93,7 +97,8 @@ ES_2026-2_DeepResearch/
     ├── plano-melhoria.md
     ├── uml.md
     ├── relatorio-base.md
-    └── replicacao.md
+    ├── replicacao.md
+    └── uso-de-ia.md
 ```
 
 ---

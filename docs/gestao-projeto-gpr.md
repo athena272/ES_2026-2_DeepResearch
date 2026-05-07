@@ -1,5 +1,7 @@
 # Ciclo de vida e metodologias ágeis (GPR)
 
+> *Este documento foi redigido com apoio do Cursor IDE (assistente Claude) e revisado pela Equipe 1. Detalhes em [uso-de-ia.md](./uso-de-ia.md).*
+
 ## 1. Evidências no repositório local
 
 ### 1.1 Roadmap e comunicação de evolução

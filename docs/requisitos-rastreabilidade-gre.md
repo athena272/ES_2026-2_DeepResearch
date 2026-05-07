@@ -1,5 +1,7 @@
 # Engenharia de requisitos (GRE) — rastreabilidade
 
+> *Este documento foi redigido com apoio do Cursor IDE (assistente Claude) e revisado pela Equipe 1. Detalhes em [uso-de-ia.md](./uso-de-ia.md).*
+
 ## 1. Processo RFC / propostas formais
 
 - **Clone local:** não há pasta `rfcs/`, `docs/rfc/` nem menções a “RFC” nos `.md` pesquisados na raiz.

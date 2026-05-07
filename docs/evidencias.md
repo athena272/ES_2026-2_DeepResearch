@@ -8,6 +8,7 @@
 | GPR | [gestao-projeto-gpr.md](./gestao-projeto-gpr.md) | `README.md`, `WebAgent/README.md`, `git log`, Releases vazias (consulta web abril/2026) |
 | GRE | [requisitos-rastreabilidade-gre.md](./requisitos-rastreabilidade-gre.md) | Issues/PRs #233, #14, #181 e commits ligados |
 | Melhoria | [plano-melhoria.md](./plano-melhoria.md) | Síntese dos gaps |
+| Uso de IA | [uso-de-ia.md](./uso-de-ia.md) | Cursor IDE, Claude (Opus); método e responsabilidade da Equipe 1 |
 
 **Repositório analisado:** https://github.com/Alibaba-NLP/DeepResearch  
 

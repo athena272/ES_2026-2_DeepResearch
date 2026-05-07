@@ -1,5 +1,7 @@
 # Verificação e validação (V&V)
 
+> *Este documento foi redigido com apoio do Cursor IDE (assistente Claude) e revisado pela Equipe 1. Detalhes em [uso-de-ia.md](./uso-de-ia.md).*
+
 ## Distinção conceitual
 
 | Tipo | Significado no contexto DeepResearch | Evidências no repositório |
