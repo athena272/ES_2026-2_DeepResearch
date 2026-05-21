@@ -47,6 +47,12 @@ Esta auditoria foi conduzida com apoio do **Cursor IDE** em modo agente, usando 
 
 **Índice rápido:** [docs/evidencias.md](docs/evidencias.md) · **Uso de IA:** [docs/uso-de-ia.md](docs/uso-de-ia.md)
 
+### Padrões em OSS (aula 20–21/05/2026)
+
+Atividades 1 a 4 sobre **Template Method**, **Mediator** e **Strategy** no DeepResearch — documento único:
+
+**[atividade-21-05-2026/atividade-padroes-oss.md](atividade-21-05-2026/atividade-padroes-oss.md)**
+
 ---
 
 ## Achados principais (síntese)
@@ -87,6 +93,8 @@ Detalhamento completo: [docs/plano-melhoria.md](docs/plano-melhoria.md)
 ES_2026-2_DeepResearch/
 ├── README.md                 # este arquivo
 ├── LICENSE
+├── atividade-21-05-2026/
+│   └── atividade-padroes-oss.md   # Padrões em OSS (atividades 1–4)
 └── docs/
     ├── evidencias.md
     ├── gestao-projeto-gpr.md
